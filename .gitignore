@@ -1,0 +1,12 @@
+__pycache__/
+**/__pycache__/
+*.py[codz]
+*$py.class
+
+venv/
+.venv/
+env/
+
+datasets/
+cache/
+results/
