@@ -1,6 +1,10 @@
 # MetaEns: Automatic Unsupervised Ensemble Outlier Model Selection
 
-Official implementation of **"Automatic Unsupervised Ensemble Outlier Model Selection"**, accepted at **ICML 2026**.
+Official implementation of **"Automatic Unsupervised Ensemble Outlier Model Selection"** (ICML 2026).
+
+**Paper:** [arXiv:2605.16567](https://arxiv.org/abs/2605.16567) (extended version)
+
+Hong-Phuc Phan\*, Tuan-Anh Vu\*, Tung Kieu\*, Son Ha Xuan, Bin Yang, Christian S. Jensen (\*equal contribution)
 
 ---
 
@@ -217,5 +221,6 @@ If you use MetaEns in your research, please cite:
   author    = {Hong-Phuc Phan and Tuan-Anh Vu and Tung Kieu and Son Ha Xuan and Bin Yang and Christian S. Jensen},
   booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
   year      = {2026},
+  note      = {Extended version: arXiv:2605.16567},
 }
 ```
